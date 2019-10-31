@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_leaderboard">Leaderboard</string>
+    <string name="menu_store">Store</string>
+    <string name="menu_profile">Profile</string>
+    <string name="title_activity_store">StoreActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>
